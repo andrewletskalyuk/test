@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello\n";
+	setlocale(LC_ALL, "");
+	cout << "Hello world\n";
+
 	system("pause");
 }
